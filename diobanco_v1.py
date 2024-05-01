@@ -66,5 +66,5 @@ while True:
     elif opcao == "q": # termina o programa
         break
 
-    else:
+    else: # caso algum outro comando seja inserido no input
         print("Operação inválida, por favor selecione novamente a operação desejada.")
