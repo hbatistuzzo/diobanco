@@ -63,7 +63,7 @@ while True:
         print(f"\nSaldo: R$ {saldo:.2f}") # O saldo sempre é exibido
         print("===========================================")
 
-    elif opcao == "q":
+    elif opcao == "q": # termina o programa
         break
 
     else:
